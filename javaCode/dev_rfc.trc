@@ -1,0 +1,414 @@
+
+**** ERROR file opened at 20201210 105725 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:10836 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Thu Dec 10 10:57:25 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201210 105818 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:1464 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Thu Dec 10 10:58:18 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201210 105857 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:13676 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Thu Dec 10 10:58:57 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 075510 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:11376 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 07:55:10 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 085639 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:10916 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 08:56:39 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 085728 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:7400 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 08:57:28 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+T:7400 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '?' unknown
+TIME        Fri Dec 11 08:57:28 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+COUNTER     2
+
+
+**** ERROR file opened at 20201211 085820 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:7628 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 08:58:20 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 085823 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:9184 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 08:58:23 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 085830 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:16380 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 08:58:30 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 085848 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:11880 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 08:58:48 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+T:11880 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '?' unknown
+TIME        Fri Dec 11 08:58:48 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+COUNTER     2
+
+
+**** ERROR file opened at 20201211 085925 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:9452 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 08:59:25 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 085937 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:10736 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 08:59:37 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 090934 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:12536 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 09:09:34 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 091932 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:14272 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 09:19:32 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 091937 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:15428 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 09:19:37 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 092035 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:11368 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 09:20:35 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 092118 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:1132 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 09:21:18 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201211 092246 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:13464 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 11 09:22:46 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201214 070204 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:11896 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Mon Dec 14 07:02:04 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201214 094357 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:13120 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Mon Dec 14 09:43:57 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201218 072143 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:7932 Error in program 'java': ======> Name or password is incorrect (repeat logon)
+T:7932 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20201218 072240 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:6148 Error in program 'java': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=<svrels02.hs.coop.ch>, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '<svrels02.hs.coop.ch>' unknown
+TIME        Fri Dec 18 07:22:40 202
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -2
+MODULE      ninti.c
+LINE        337
+DETAIL      NiPGetHostByName2: hostname '<svrels02.hs.coop.ch>' not found
+SYSTEM CALL gethostbyname_r
+COUNTER     1
+
+
+**** ERROR file opened at 20201218 072939 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:6952 Error in program 'java': ======> Name or password is incorrect (repeat logon)
+T:6952 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20201218 073009 Mitteleuropäische Zeit, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:7884 Error in program 'java': ======> Name or password is incorrect (repeat logon)
+T:7884 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION

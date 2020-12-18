@@ -12,6 +12,7 @@ import com.sap.conn.jco.JCoException;
  */
 public class Connect
 {
+
     public static void main(String[] args) throws JCoException
     {
         JCoDestination destination=JCoDestinationManager.getDestination(DestinationConcept.SomeSampleDestinations.ABAP_AS1);
